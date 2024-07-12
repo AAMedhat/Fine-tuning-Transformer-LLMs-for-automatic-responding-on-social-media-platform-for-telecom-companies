@@ -8,5 +8,4 @@ Integrated advanced NLP techniques for text generation and question answering, i
 
 Enhanced response quality using fine-tuned LLMs (LLAMA3).
 
-Employed RAG models to combine retrieval mechanisms with text generation, retrieving contextually similar documents from a FAISS-managed database for accurate responses.
 
