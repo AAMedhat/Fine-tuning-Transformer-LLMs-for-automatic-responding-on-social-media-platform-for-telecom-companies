@@ -39,6 +39,6 @@ AraT5v2: Fine-tuned for generating responses in Arabic.
 LLAMA3: Fine-tuned for generating responses in Arabic.
 
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or bugs.
