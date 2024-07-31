@@ -3,42 +3,42 @@
 This repository showcases the development of an intelligent bot tailored for telecom companies to handle customer interactions on social media platforms. The bot utilizes advanced NLP techniques and fine-tuned transformer models/LLMs to generate automated responses.
 
 
-# Overview
+## Overview
 
-The project includes:
+### The project includes:
 
-Jupyter notebooks for fine-tuning transformer models (AraT5v2 and LLAMA3).
+* Jupyter notebooks for fine-tuning transformer models (AraT5v2 and LLAMA3).
 
-A CSV file containing the dataset used for training and evaluation.
-
-
-# Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-
-Python 3.8 or later
-
-Jupyter Notebook
+* CSV file containing the dataset used for training and evaluation.
 
 
-# Files in the Repository
+## Prerequisites
 
-fineTuningArat5ForAutoReply.ipynb: Jupyter notebook for fine-tuning the AraT5v2 model.
+# Before you begin, ensure you have the following installed on your system:
 
-fineTuningLlama3ForAutoReply-last.ipynb: Jupyter notebook for fine-tuning the LLAMA3 model.
+* Python 3.8 or later
 
-datanewWithoutNoRealplays.csv: CSV file containing the dataset used for training and evaluation.
-
-
-# Fine-tuning Transformer Models
-
-The project utilizes transformer models for text generation and question answering:
-
-AraT5v2: Fine-tuned for generating responses in Arabic.
-
-LLAMA3: Fine-tuned for generating responses in Arabic.
+* Jupyter Notebook
 
 
-# Contributing
+## Files in the Repository
+
+* fineTuningArat5ForAutoReply.ipynb: Jupyter notebook for fine-tuning the AraT5v2 model.
+
+* fineTuningLlama3ForAutoReply-last.ipynb: Jupyter notebook for fine-tuning the LLAMA3 model.
+
+* datanewWithoutNoRealplays.csv: CSV file containing the dataset used for training and evaluation.
+
+
+## Fine-tuning Transformer Models
+
+### The project utilizes transformer models for text generation and question answering:
+
+* AraT5v2: Fine-tuned for generating responses in Arabic.
+
+* LLAMA3: Fine-tuned for generating responses in Arabic.
+
+
+## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or bugs.
